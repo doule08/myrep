@@ -1,0 +1,21 @@
+1 Alias et classe privée
+2 Classes partielles
+3 Encapsulation
+4 Enum
+5 Indexeurs
+6 Namespace et sous namespace
+7 Propriétés
+8 Surcharge opérateur
+9 Heritage
+10 Polymorphisme
+11 Classe statique
+12 Interfaces
+13 Constructeurs
+14 IDisposable et using
+15 Exceptions
+16 Créer ses exceptions
+17 Délégués
+17-1 Méthodes anonymes
+17-2 Evènements
+17-3 Délégués EventHandler et RoutedEventHandler
+18 Généricités [à faire]
